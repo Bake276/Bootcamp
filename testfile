@@ -16,4 +16,8 @@ This is a Testfile!
 
 Edited on github for fetch example
 
+<<<<<<< HEAD
 this is just a test for pull
+=======
+and it will have a conflict
+>>>>>>> 0478f8c20cb0a165c2929ff752b11d3271ca6de8
